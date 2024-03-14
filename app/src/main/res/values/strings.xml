@@ -1,0 +1,22 @@
+<resources>
+    
+    <string name="opentracks_start">de.dennisguse.opentracks.publicapi.StartRecording</string>
+    <string name="opentracks_stop">de.dennisguse.opentracks.publicapi.StopRecording</string>
+
+    <string name="app_name">Tools</string>
+    <string name="tab_text_1">Time management</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_write_to_nfc">WriteToNFC</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_helper_app_selection">HelperAppSelection</string>
+    <string name="accessibility_service_description">Monitors media notifications to determine the ammount of time spent listing to music and watching videos.</string>
+</resources>
